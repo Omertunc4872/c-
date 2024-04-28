@@ -1,0 +1,65 @@
+#div
+{
+    border-style: solid;
+    border-color: yellowgreen;
+    border-width: 3px;
+    width: 400px;
+    min-height: 384px;
+    margin: auto;
+}
+header
+{
+    text-align: center;
+    border-style: dotted;
+    border-color: blue;
+    width: 360px;
+    height: 50px;
+    margin: auto;
+    background-color:red;
+}
+nav
+{
+    border-style: dashed;
+    border-color: red;
+    width: 360px ;
+    height: 90px ;
+    margin: auto;
+    background-color: white;
+    color: red;
+}
+article
+{
+    border-style: solid;
+    border-color: green;
+    width: 200px;
+    min-height: 200px;
+    margin: auto;
+    background-color: red;
+    float: left;
+    position: relative;
+    left: 20px;
+}
+aside
+{
+    border-style: solid;
+    border-color: green;
+    width: 160px;
+    min-height: 200px;
+    margin: auto;
+    background-color: white;
+    float: right;
+    position: relative;
+    right: 17px;
+}
+footer
+{
+    border-style: double;
+    border-color: red;
+    width: 360px;
+    height: 33px;
+    margin: auto;
+    background-color: white;
+    float: left;
+    position: relative;
+    left: 17px;
+}
